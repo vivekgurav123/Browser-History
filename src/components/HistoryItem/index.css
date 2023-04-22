@@ -1,0 +1,28 @@
+.items {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  position: relative;
+}
+.logoImg {
+  margin-left: 50px;
+  width: 30px;
+  height: 30px;
+}
+.title {
+  margin-left: 50px;
+}
+.btn {
+  position: absolute;
+  right: 0;
+}
+.btn img {
+  width: 20px;
+  height: 20px;
+}
+.domainurl {
+  margin-left: 5px;
+}
+.title {
+  font-weight: 600;
+}
